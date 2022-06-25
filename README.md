@@ -1,9 +1,9 @@
-- 👋 Hi, I’m William Stoneham
+# 👋 Hi, I’m William Stoneham
 - 👀 I’m intrested in computers in general especially in creating software that controls hardware.
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on anything!!!
 - 📫 How to reach me: @rockbacon9922 on most platforms!!!!
-- ✅ Skills
+# ✅ Skills
 -   Pygame
 -   Python
 -   JavaScript

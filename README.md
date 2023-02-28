@@ -2,11 +2,13 @@
 - 👀 I’m intrested in computers in general especially in creating software that controls hardware.
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on anything!!!
-- 📫 How to reach me: @rockbacon9922 on most platforms!!!!
+- 📫 How to reach me: @williamstoneham on instagram or facebook
 # ✅ Skills
 -   Pygame
 -   Python
 -   JavaScript
+-   TypeScript
+-   tRPC
 -   HTML
 -   HTTP
 -   CSS

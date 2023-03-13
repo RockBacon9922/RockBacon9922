@@ -2,7 +2,7 @@
 - 👀 I’m intrested in computers in general especially in creating software that controls hardware.
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on anything!!!
-- 📫 How to reach me: @williamstoneham on instagram or facebook
+- 📫 How to reach me: @william_stoneham on instagram or facebook
 # ✅ Skills
 -   Pygame
 -   Python

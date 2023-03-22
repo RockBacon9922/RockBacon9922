@@ -13,6 +13,9 @@
 -   HTTP
 -   CSS
 -   Node.js
+-   Astro
+-   Express
+-   Restful API's
 -   React.js
 -   Next.js
 -   Solid knowledge of Linux

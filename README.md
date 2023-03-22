@@ -1,6 +1,6 @@
 # 👋 Hi, I’m William Stoneham
 - 👀 I’m currently enjoying creating full stack web apps.
-- 🌱 I’m currently learning Web Assembly
+- 🌱 I’m currently learning Web Assembly and keeping up to date with the latest js framework.
 - 💞️ I’m currently working on software for current clients and friends.
 - 📫 How to reach me: @william_stoneham on instagram or facebook
 # ✅ Skills

@@ -1,7 +1,7 @@
 # 👋 Hi, I’m William Stoneham
-- 👀 I’m intrested in computers in general especially in creating software that controls hardware.
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on anything!!!
+- 👀 I’m currently enjoying creating full stack web apps.
+- 🌱 I’m currently learning Web Assembly
+- 💞️ I’m currently working on software for current clients and friends.
 - 📫 How to reach me: @william_stoneham on instagram or facebook
 # ✅ Skills
 -   Pygame
@@ -14,7 +14,7 @@
 -   CSS
 -   Node.js
 -   React.js
--   Next.Js
+-   Next.js
 -   Solid knowledge of Linux
 -   Docker
 -   Balena

@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m Currently helping people around me solve their issues with code.<br>👯 I’m looking to collaborate on anything that will make the world better<br>🤝 I’m looking for help with low level languages e.g C + C++<br>🌱 I’m currently learning other ways to create full stack applications.<br>💬 Ask me anything about antiques especially brown furniture.<br>⚡ Fun fact I have 6 dogs
+🔭 I’m Currently helping people around me solve their issues with code.<br>👯 I’m looking to collaborate on anything that will make the world better<br>🤝 I’m looking for help with low level languages e.g C + C++<br>🌱 I’m currently learning other ways to create full stack applications.<br>💬 Ask me anything about antiques especially brown furniture.<br>⚡ Fun fact I have 7 dogs
 
 
 ## 🌐 Socials:

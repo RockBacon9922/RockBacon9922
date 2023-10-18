@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m Currently helping people around me solve their issues with code.<br>👯 I’m looking to collaborate on anything that will make the world better<br>🤝 I’m looking for help with low level languages e.g C + C++<br>🌱 I’m currently learning other ways to create full stack applications.<br>💬 Ask me anything about antiques especially brown furniture.<br>⚡ Fun fact I have 7 dogs
-
+Hi I am William Stoneham, a 19 year old programmer based in south east england. I am a 2 time Big Bang finalist and an Air Products sustainable prize winner. I started programming during the pandemic and found it a great aid for GCSE studdies. Since then I have futher developed my skills which have helped me to gain A&ast;A&ast;C in my Alevels and to help buisnesses become more interconnected with the many services they use. Currently I am working on software for dyslexiatestcentre.co.uk and queenshalltheatre.co.uk
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100076974866864) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/william_stoneham) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/williamstoneham) 

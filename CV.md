@@ -29,9 +29,11 @@
 - [Queens Hall Theatre](https://queenshalltheatre.co.uk)
     - Engineer and Marketing
     - React, Rust, Typescript, AWS CFM/CDK, Nix
-- [GavelConnect](https://gavelconnect.com)
+- GavelConnect
     - Software Engineer
     - Chrome Extension, React, Typescript
+    Gavel Connect was a project to reduce the number of people required to run an online auction on multiple platforms.
+    Was approached by Raj Bisram to invest in this project, but during the due diligence there was another company that was doing something similar.
 
 ## Sports
 - Dog Agility

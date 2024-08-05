@@ -1,3 +1,9 @@
 29.2.24
 - I have leaned today about emails. Emails conform to the mime standard. This regulates the email headers how attachemnts are attached. Apparently according to wikipedia they standardize everything apart from the ASCII characters themselves.
 -- I have had to learn this due to my work at cranbrook school. I have created a system that will automatically pull all the current shows they have on their system. It then puts them into a custom email template. It then will take all the people who requested to get email from the ticket booking system and then send emails to them. The difficult part is the unsubscribe featre. As it will have to accept emails through amazon ses which will trigger a lambda function which will then invoke an api call to the ticket booking system to update their email preferences.
+
+
+
+5.8.24
+I had to create a corporate wide email signature today for DTC in Microsoft 365. I used jsx email to create the template. The below link is very good with all the variables to include info in your emails.
+https://learn.microsoft.com/en-us/exchange/security-and-compliance/mail-flow-rules/disclaimers-signatures-footers-or-headers

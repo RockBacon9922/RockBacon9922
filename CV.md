@@ -35,6 +35,9 @@
     - Chrome Extension, React, Typescript
     Gavel Connect was a project to reduce the number of people required to run an online auction on multiple platforms.
     Was approached by Raj Bisram to invest in this project, but during the due diligence there was another company that was doing something similar.
+    - Custom Logo, That encorporated a Gavel and the Letters G and C
+    - ![Gavel Connect Logo](https://github.com/user-attachments/assets/57d2e20d-6482-4d88-bac6-10041b885962)
+
 
 ## Sports
 - Dog Agility

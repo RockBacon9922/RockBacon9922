@@ -30,7 +30,7 @@
 - [Queens Hall Theatre](https://queenshalltheatre.co.uk)
     - Engineer and Marketing
     - React, Rust, Typescript, AWS CFM/CDK, Nix
-- GavelConnect
+- [GavelConnect](https://github.com/GavelConnect/GavelConnect)
     - Software Engineer
     - Chrome Extension, React, Typescript
     Gavel Connect was a project to reduce the number of people required to run an online auction on multiple platforms.

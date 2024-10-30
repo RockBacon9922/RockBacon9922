@@ -1,8 +1,9 @@
 # William Stoneham
 - 20 years old
 - Founding Software Engineer at [Dyslexia Test Centre](https://dyslexiatestcentre.co.uk)
-- Engineer and Marketing at [Queens Hall Theatre](https://queenshalltheatre.co.uk)
+- Theatre Technician and Software Engineer for [Queens Hall Theatre](https://queenshalltheatre.co.uk)
 - Grade 8 Guitarist
+- Qualified Kennel Club Agility Judge
 
 ## Experience
 - Modern Software Engineering - Frontend and Backend
@@ -21,14 +22,17 @@
     - Distinction*
 - A-Level in Biology
     - B
-- Qualified Kennel Club Agility Judge
 
 ## Projects
 - [Dyslexia Test Centre](https://dyslexiatestcentre.co.uk)
     - Founding Software Engineer
+    - Graphic Design
     - React, Rust, Typescript
 - [Queens Hall Theatre](https://queenshalltheatre.co.uk)
-    - Engineer and Marketing
+    - Live Sound
+    - Marketing
+    - Mass Email Marketing
+    - Graphic / Poster Design
     - React, Rust, Typescript, AWS CFM/CDK, Nix
 - [GavelConnect](https://github.com/GavelConnect/GavelConnect)
     - Software Engineer

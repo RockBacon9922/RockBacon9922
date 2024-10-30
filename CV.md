@@ -1,5 +1,5 @@
 # William Stoneham
-- 19 years old
+- 20 years old
 - Founding Software Engineer at [Dyslexia Test Centre](https://dyslexiatestcentre.co.uk)
 - Engineer and Marketing at [Queens Hall Theatre](https://queenshalltheatre.co.uk)
 - Grade 8 Guitarist
@@ -20,7 +20,8 @@
 - BTEC in Music Performance
     - Distinction*
 - A-Level in Biology
-    - C
+    - B
+- Qualified Kennel Club Agility Judge
 
 ## Projects
 - [Dyslexia Test Centre](https://dyslexiatestcentre.co.uk)

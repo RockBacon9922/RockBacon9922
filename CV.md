@@ -25,8 +25,9 @@
 
 ## Projects
 - [Dyslexia Test Centre](https://dyslexiatestcentre.co.uk)
-    - Founding Software Engineer
     - Graphic Design
+    - Website
+    - Portal for both Clients and Assessors
     - React, Rust, Typescript
 - [Queens Hall Theatre](https://queenshalltheatre.co.uk)
     - Live Sound

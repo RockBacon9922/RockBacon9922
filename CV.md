@@ -40,7 +40,7 @@
     - Software Engineer
     - Chrome Extension, React, Typescript
     Gavel Connect was a project to reduce the number of people required to run an online auction on multiple platforms.
-    Was approached by multiple investors for this project. Most noteably Raj Bisram (TV Auctioneer and Live Personality)
+    Was approached by multiple investors for this project. Most noteably Raj Bisram (TV Auctioneer)
     - Custom Logo, That encorporated a Gavel and the Letters G and C
     - ![Gavel Connect Logo](https://github.com/user-attachments/assets/57d2e20d-6482-4d88-bac6-10041b885962)
 

@@ -7,6 +7,7 @@
 
 ## Experience
 - Modern Software Engineering - Frontend and Backend
+    - Neovim
     - React, Rust, Typescript,
     - Docker, AWS CFM/CDK, Kubernetes, Nix
 - Computer Forensics
